@@ -1,0 +1,21 @@
+# Data Science Libraries
+numpy
+pandas
+matplotlib
+seaborn
+pmdarima
+statsmodels
+psycopg2-binary
+
+# Web Development Libraries
+flask
+gunicorn
+requests
+gevent
+
+# Database Connectivity
+sqlalchemy
+
+# Specific Versions
+psycopg2-binary==2.9.1
+pmdarima==2.0.3
